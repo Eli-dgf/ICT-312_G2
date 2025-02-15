@@ -1,0 +1,24 @@
+**Database Name: hospitalms**
+
+
+
+
+
+
+**Admin Login Details**
+
+Username: admin
+Password: admin123
+
+**Patient Login Details**
+
+Username: elikenei@gmail.com
+Password: eli123
+
+
+**Doctor Login Details**
+
+Username: roshan@gmail.com
+Password: roshan123
+
+
